@@ -3,18 +3,6 @@ languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
 title = "That Data Person"
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 3
-[[menu.main]]
-URL = "portfolio"
-name = "Portfolio"
-weight = 2
-[[menu.main]]
-URL = "about"
-name = "About"
-weight = 1
 [params]
 address = "First Floor Telecom House, 125 - 135 Preston Road, Brighton, England, BN1 6AF"
 author = "That Data Person Limited"
