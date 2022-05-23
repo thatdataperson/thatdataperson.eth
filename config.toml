@@ -40,11 +40,5 @@ preloader = ""
 URL = "https://www.facebook.com/thatdataperson"
 icon = "ti-facebook"
 [[params.social]]
-URL = "#"
-icon = "ti-instagram"
-[[params.social]]
-URL = "#"
-icon = "ti-dribbble"
-[[params.social]]
-URL = "#"
+URL = "https://twitter.com/thatdataperson"
 icon = "ti-twitter-alt"
