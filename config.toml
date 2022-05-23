@@ -1,8 +1,10 @@
-baseURL = "/"
+baseURL = "/about"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
 title = "That Data Person"
+[menu]
+main = []
 [params]
 address = "First Floor Telecom House, 125 - 135 Preston Road, Brighton, England, BN1 6AF"
 author = "That Data Person Limited"
@@ -11,7 +13,7 @@ description = "That Data Person Limited"
 email = "hello@thatdataperson.com"
 google_analitycs_id = "Your ID"
 home = "Home"
-logo = "images/logo.png"
+logo = ""
 phone = "+44 7874 374184"
 theme_color = "#4320cc"
 [params.contact]
@@ -35,7 +37,7 @@ URL = "plugins/shuffle/shuffle.min.js"
 enable = true
 preloader = ""
 [[params.social]]
-URL = "#"
+URL = "https://www.facebook.com/thatdataperson"
 icon = "ti-facebook"
 [[params.social]]
 URL = "#"
