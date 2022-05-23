@@ -24,4 +24,6 @@ At That Data Person, we love to share. That's why we use [**GitHub**](https://gi
 
 Need more purple in your life? We made [**ThatDataPurple**](https://github.com/thatdataperson/ThatDataPurple "ThatDataPurple") and support it on lots of apps.
 
-![ThatDataPurple theme shown on Slack, Chrome, Firefox and Visual Studio 2022](https://www.thatdataperson.com/images/ThatDataPurple.preview.png "ThatDataPurple theme shown on Slack, Chrome, Firefox and Visual Studio 2022" =650x417)ThatDataPurple theme on Slack, Chrome, Firefox and Visual Studio 2022
+![ThatDataPurple theme on various apps](/images/thatdatapurple-preview.png "ThatDataPurple")
+
+ThatDataPurple theme on Slack, Chrome, Firefox and Visual Studio 2022
