@@ -1,13 +1,27 @@
 ---
-title: "About"
-date: 2019-05-12T12:14:34+06:00
-description: "This is meta description."
-author_image : "images/about/author.jpg"
-author_signature : "images/about/signature.png"
+title: About
+date: 2019-05-12T12:14:34.000+06:00
+description: This is meta description.
+author_image: images/about/author.jpg
+author_signature: ''
+
 ---
+## About Us
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Established in 2021, That Data Person is owned and run by Tom Burgin.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+At That Data Person, we understand that data drive modern business. Harnessing and understanding your data provides a platform for the future. That Data Person Limited can help you make the most of the data you have.
 
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+### Data Make Us Happy
+
+With over a decade of experience in data analysis, SQL and reporting, That Data Person Limited can push your data forward.
+
+Need some help? [**Contact us**](mailto:hello@thatdataperson.com "Contact us") and see what we can do together.
+
+### Open, Honestly
+
+At That Data Person, we love to share. That's why we use [**GitHub**](https://github.com/thatdataperson/ "GitHub") to show all the things we like working on.
+
+Need more purple in your life? We made [**ThatDataPurple**](https://github.com/thatdataperson/ThatDataPurple "ThatDataPurple") and support it on lots of apps.
+
+![ThatDataPurple theme shown on Slack, Chrome, Firefox and Visual Studio 2022](https://www.thatdataperson.com/images/ThatDataPurple.preview.png "ThatDataPurple theme shown on Slack, Chrome, Firefox and Visual Studio 2022" =650x417)ThatDataPurple theme on Slack, Chrome, Firefox and Visual Studio 2022
