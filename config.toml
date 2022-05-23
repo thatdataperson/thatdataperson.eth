@@ -16,16 +16,16 @@ URL = "about"
 name = "About"
 weight = 1
 [params]
-address = "125/A, CA Commercial Area, California, USA"
-author = "Johnathan Smith"
-copyright = "Copyrighht &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
-description = "This is meta description"
-email = "steve.fruits@email.com"
+address = "First Floor Telecom House, 125 - 135 Preston Road, Brighton, England, BN1 6AF"
+author = "That Data Person Limited"
+copyright = "Copyright &copy; 2022"
+description = "That Data Person Limited"
+email = "hello@thatdataperson.com"
 google_analitycs_id = "Your ID"
 home = "Home"
 logo = "images/logo.png"
-phone = "+880 2544 658 256"
-theme_color = "#41228e"
+phone = "+44 7874 374184"
+theme_color = "#4320cc"
 [params.contact]
 enable = true
 form_action = "#"

@@ -120,35 +120,35 @@ testimonial:
 clients_logo_slider:
   enable : true
   item:
-    - logo : "images/clients-logo/client-logo-1.png"
-      URL : "http://examplesite.com"
+    - logo : "images/clients-logo/logo.KeyTravel.svg"
+      URL : "https://www.keytravel.com"
 
-    - logo : "images/clients-logo/client-logo-2.png"
-      URL : "#"
+    # - logo : "images/clients-logo/client-logo-2.png"
+    #   URL : "#"
 
-    - logo : "images/clients-logo/client-logo-3.png"
-      URL : "http://examplesite.com"
+    # - logo : "images/clients-logo/client-logo-3.png"
+    #   URL : "http://examplesite.com"
 
-    - logo : "images/clients-logo/client-logo-4.png"
-      URL : "#"
+    # - logo : "images/clients-logo/client-logo-4.png"
+    #   URL : "#"
 
-    - logo : "images/clients-logo/client-logo-5.png"
-      URL : "http://examplesite.com"
+    # - logo : "images/clients-logo/client-logo-5.png"
+    #   URL : "http://examplesite.com"
 
-    - logo : "images/clients-logo/client-logo-1.png"
-      URL : "#"
+    # - logo : "images/clients-logo/client-logo-1.png"
+    #   URL : "#"
 
-    - logo : "images/clients-logo/client-logo-2.png"
-      URL : "http://examplesite.com"
+    # - logo : "images/clients-logo/client-logo-2.png"
+    #   URL : "http://examplesite.com"
 
-    - logo : "images/clients-logo/client-logo-3.png"
-      URL : "#"
+    # - logo : "images/clients-logo/client-logo-3.png"
+    #   URL : "#"
 
-    - logo : "images/clients-logo/client-logo-4.png"
-      URL : "http://examplesite.com"
+    # - logo : "images/clients-logo/client-logo-4.png"
+    #   URL : "http://examplesite.com"
 
-    - logo : "images/clients-logo/client-logo-5.png"
-      URL : "#"
+    # - logo : "images/clients-logo/client-logo-5.png"
+    #   URL : "#"
 
 # blog
 blog:
