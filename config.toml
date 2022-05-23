@@ -8,16 +8,16 @@ main = []
 [params]
 address = "First Floor Telecom House, 125 - 135 Preston Road, Brighton, England, BN1 6AF"
 author = "That Data Person Limited"
-copyright = "Copyright &copy; 2022"
+copyright = "Copyright 2022"
 description = "That Data Person Limited"
 email = "hello@thatdataperson.com"
 google_analitycs_id = "Your ID"
-home = "Home"
+home = "About"
 logo = ""
 phone = "+44 7874 374184"
 theme_color = "#4320cc"
 [params.contact]
-enable = true
+enable = false
 form_action = "#"
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
